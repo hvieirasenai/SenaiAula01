@@ -10,6 +10,8 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
+            // baixe do github e agora estou colocando la novamente 
+
             string nome = "";
 
             Console.WriteLine(" Ola Mundo !!");
